@@ -69,11 +69,17 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .checkbox {
   text-align:left;
 }
 .radio_button {
   text-align:left;
+}
+.snapshot {
 }
 ._流程形状 {
 }
